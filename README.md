@@ -1,2 +1,2 @@
-# cyber-security-lab
-My first cybersecurity practice project
+cyber-security-lab
+My first cybersecurity practice
